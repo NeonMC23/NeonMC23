@@ -194,7 +194,13 @@ My projects range from resource-efficient AI runtimes and hardware utilities to 
 - **Privacy by design** — Prefer local-first solutions and minimize unnecessary dependencies.
 - **Open-source mindset** — Build software that others can inspect, understand, and improve.
 
+---
 
+<p align="center">
+  <sub>Build with purpose. Learn continuously.</sub>
+  <br>
+  <a href="https://github.com/NeonMC23?tab=repositories">Explore my repositories ↗</a>
+</p>
 
 
 
