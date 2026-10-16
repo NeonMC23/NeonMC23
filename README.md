@@ -203,7 +203,3 @@ My projects range from resource-efficient AI runtimes and hardware utilities to 
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://github.com/NeonMC23">github.com/NeonMC23</a>
-</p>
