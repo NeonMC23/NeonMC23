@@ -99,10 +99,12 @@
 
 ### GitHub Statistics
 
+### GitHub Contributions
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=NeonMC23&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1C1C1C&title_color=A3E635&text_color=E5E7EB&icon_color=A3E635&rank_icon=percentile"
-    alt="GitHub Repository Statistics"
+    src="https://github.pumbas.net/api/contributions/NeonMC23?colour=A3E635&bgColour=1C1C1C&dotColour=E5E7EB"
+    alt="Neon's GitHub Contribution Calendar"
     width="100%"
   />
 </p>
