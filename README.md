@@ -180,6 +180,23 @@
   </tr>
 </table>
 
+### About
+
+I'm a developer focused on systems programming, local AI infrastructure, and practical open-source software. I enjoy building tools that solve concrete problems, exploring low-level engineering, and designing systems with clear boundaries and long-term maintainability in mind.
+
+My projects range from resource-efficient AI runtimes and hardware utilities to geospatial visualization and lightweight web applications.
+
+#### Engineering Principles
+
+- **Performance with purpose** — Optimize where it matters, without sacrificing correctness.
+- **Clear architecture** — Keep responsibilities separated and interfaces explicit.
+- **Resource awareness** — Treat memory, storage, and compute as constraints to engineer around.
+- **Privacy by design** — Prefer local-first solutions and minimize unnecessary dependencies.
+- **Open-source mindset** — Build software that others can inspect, understand, and improve.
+
+
+
+
 
 
 
