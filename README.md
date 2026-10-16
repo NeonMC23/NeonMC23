@@ -1,39 +1,4 @@
-# Neon
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:171717,100:252525&text=NEON&fontColor=FF66C4&fontSize=68&fontAlignY=42&desc=INDEPENDENT%20DEVELOPER%20%2F%2F%20SYSTEMS%20%2F%2F%20LOCAL%20AI&descAlignY=70&descSize=14&animation=fadeIn" width="100%" alt="NEON — Independent Developer" />
-</p>
-
-<p align="center">
-  <strong>Building software. Exploring ideas. Understanding systems.</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NeonMC23?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-171717?style=flat-square&logo=github&logoColor=FF66C4" alt="Repositories" />
-  </a>
-  <a href="https://github.com/NeonMC23?tab=stars">
-    <img src="https://img.shields.io/badge/OPEN_SOURCE-171717?style=flat-square&logo=opensourceinitiative&logoColor=A3E635" alt="Open source" />
-  </a>
-</p>
-
----
-
-### Tech & Tools
-
-#### Languages
-
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <a href="https://www.rust-lang.org/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=rust" height="45" alt="Rust" />
-      </a>
-      <br><sub>Rust</sub>
-    </td>
-    <td align="center" width="150">
-      <a href="https://www.python.org/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=python" height="45" alt="Python" />
+img src="https://go-skill-icons.vercel.app/api/icons?i=python" height="45" alt="Python" />
       </a>
       <br><sub>Python</sub>
     </td>
