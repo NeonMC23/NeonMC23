@@ -99,8 +99,6 @@
 
 ### GitHub Statistics
 
-### GitHub Contributions
-
 <p align="center">
   <img
     src="https://github.pumbas.net/api/contributions/NeonMC23?colour=A3E635&bgColour=1C1C1C&dotColour=E5E7EB"
