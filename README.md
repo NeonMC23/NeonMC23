@@ -21,34 +21,81 @@
 
 ### Tech & Tools
 
-#### <span style="color:#A3E635">Languages</span>
+#### Languages
 
-<p align="center">
-  <a href="https://www.rust-lang.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=rust&titles=true" height="70" alt="Rust" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=python&titles=true" height="70" alt="Python" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://go-skill-icons.vercel.app/api/icons?i=js&titles=true" height="70" alt="JavaScript" /></a>
-</p>
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://go-skill-icons.vercel.app/api/icons?i=html&titles=true" height="70" alt="HTML5" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://go-skill-icons.vercel.app/api/icons?i=css&titles=true" height="70" alt="CSS3" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.gnu.org/software/bash/"><img src="https://go-skill-icons.vercel.app/api/icons?i=bash&titles=true" height="70" alt="Bash" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <a href="https://www.rust-lang.org/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=rust" height="45" alt="Rust" />
+      </a>
+      <br><sub>Rust</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://www.python.org/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python" height="45" alt="Python" />
+      </a>
+      <br><sub>Python</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=js" height="45" alt="JavaScript" />
+      </a>
+      <br><sub>JavaScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=html" height="45" alt="HTML5" />
+      </a>
+      <br><sub>HTML5</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=css" height="45" alt="CSS3" />
+      </a>
+      <br><sub>CSS3</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://www.gnu.org/software/bash/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=bash" height="45" alt="Bash" />
+      </a>
+      <br><sub>Bash</sub>
+    </td>
+  </tr>
+</table>
 
 #### Environment & Tools
 
-<p align="center">
-  <a href="https://www.linux.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux&titles=true" height="70" alt="Linux" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=git&titles=true" height="70" alt="Git" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=github&titles=true" height="70" alt="GitHub" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://vscodium.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscodium&titles=true" height="70" alt="VSCodium" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <a href="https://www.linux.org/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=linux" height="45" alt="Linux" />
+      </a>
+      <br><sub>Linux</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://git-scm.com/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="45" alt="Git" />
+      </a>
+      <br><sub>Git</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=github" height="45" alt="GitHub" />
+      </a>
+      <br><sub>GitHub</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://vscodium.com/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=vscodium" height="45" alt="VSCodium" />
+      </a>
+      <br><sub>VSCodium</sub>
+    </td>
+  </tr>
+</table>
 
 
 
