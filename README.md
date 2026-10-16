@@ -26,52 +26,50 @@
 <table>
   <tr>
     <td align="center" width="16.66%">
-      <img src="https://cdn.simpleicons.org/rust" width="38" alt="Rust" /><br /><br />
+      <img src="https://cdn.simpleicons.org/rust" width="36" height="36" alt="Rust" /><br /><br />
       <strong>Rust</strong>
     </td>
     <td align="center" width="16.66%">
-      <img src="https://cdn.simpleicons.org/python/3776AB" width="38" alt="Python" /><br /><br />
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python" /><br /><br />
       <strong>Python</strong>
     </td>
     <td align="center" width="16.66%">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="38" alt="JavaScript" /><br /><br />
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript" /><br /><br />
       <strong>JavaScript</strong>
     </td>
     <td align="center" width="16.66%">
-      <img src="https://cdn.simpleicons.org/html5/E34F26" width="38" alt="HTML5" /><br /><br />
+      <img src="https://cdn.simpleicons.org/html5/E34F26" width="36" height="36" alt="HTML5" /><br /><br />
       <strong>HTML5</strong>
     </td>
     <td align="center" width="16.66%">
-      <img src="https://cdn.simpleicons.org/css/1572B6" width="38" alt="CSS3" /><br /><br />
+      <img src="https://cdn.simpleicons.org/css/1572B6" width="36" height="36" alt="CSS3" /><br /><br />
       <strong>CSS3</strong>
     </td>
     <td align="center" width="16.66%">
-      <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="38" alt="Bash" /><br /><br />
+      <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="36" height="36" alt="Bash" /><br /><br />
       <strong>Bash</strong>
     </td>
   </tr>
 </table>
-
-<br />
 
 **ENVIRONMENT & TOOLS**
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/linux/FCC624" width="38" alt="Linux" /><br /><br />
+      <img src="https://cdn.simpleicons.org/linux/FCC624" width="36" height="36" alt="Linux" /><br /><br />
       <strong>Linux</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/git/F05032" width="38" alt="Git" /><br /><br />
+      <img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36" alt="Git" /><br /><br />
       <strong>Git</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" alt="GitHub" /><br /><br />
+      <img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" alt="GitHub" /><br /><br />
       <strong>GitHub</strong>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/vscodium/2F80ED" width="38" alt="VSCodium" /><br /><br />
+      <img src="https://cdn.simpleicons.org/vscodium/2F80ED" width="36" height="36" alt="VSCodium" /><br /><br />
       <strong>VSCodium</strong>
     </td>
   </tr>
