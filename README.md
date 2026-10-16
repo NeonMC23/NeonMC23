@@ -97,7 +97,28 @@
   </tr>
 </table>
 
+### GitHub Statistics
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=NeonMC23&show_icons=true&include_all_commits=true&hide_border=true&bg_color=1C1C1C&title_color=A3E635&text_color=E5E7EB&icon_color=A3E635&ring_color=A3E635"
+    alt="Neon's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonMC23&layout=compact&langs_count=6&hide_border=true&bg_color=1C1C1C&title_color=A3E635&text_color=E5E7EB"
+    height="180"
+    alt="Top Languages"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://streak-stats.demolab.com/?user=NeonMC23&hide_border=true&background=1C1C1C&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF"
+    height="180"
+    alt="GitHub Contribution Streak"
+  />
+</p>
 
 
 
