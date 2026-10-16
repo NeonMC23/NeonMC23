@@ -21,21 +21,21 @@
 
 ## `01` — About
 
-I'm **Neon**, an independent developer exploring software engineering across different layers of the stack.
+I'm **Neon**, an independent developer interested in software engineering across different layers of the stack.
 
-I build projects ranging from low-level system tools and local AI infrastructure to desktop applications and web interfaces.
+My projects span low-level system tools, local AI infrastructure, desktop applications, web interfaces, and geospatial visualization.
 
-My interests include:
+### Areas of Interest
 
-- **Local AI** — inference runtimes and offline-first applications.
-- **Systems programming** — Rust, Linux tooling, and software infrastructure.
-- **Open source** — building, experimenting, and sharing software.
-- **Web development** — lightweight applications and browser interfaces.
-- **Geospatial computing** — LiDAR point clouds and 3D visualization.
-- **Privacy & local-first software** — working with locally available data.
-- **Experimental software** — exploring ideas through practical projects.
+- **Local AI** — inference runtimes and offline AI applications.
+- **Systems Programming** — Rust, Linux tooling, and software infrastructure.
+- **Open Source** — independent software projects and reusable tools.
+- **Web Development** — lightweight applications and browser interfaces.
+- **Geospatial Computing** — LiDAR point clouds and 3D visualization.
+- **Privacy & Local-First Software** — applications built around locally available data.
+- **Experimental Software** — exploring ideas through practical implementations.
 
-I enjoy understanding how things work under the hood and turning ideas into usable software.
+I enjoy understanding how systems work under the hood, exploring different engineering approaches, and turning ideas into usable software.
 
 ## `02` — Selected Projects
 
@@ -43,42 +43,42 @@ I enjoy understanding how things work under the hood and turning ideas into usab
   <tr>
     <td width="50%" valign="top">
       <h3>01 · RAMforge</h3>
-      <p><strong>Local AI infrastructure</strong></p>
-      <p>A Rust-based inference runtime designed for running models larger than available RAM or VRAM by treating storage, system memory, and GPU memory as a hierarchy.</p>
+      <p><strong>Local AI Infrastructure</strong></p>
+      <p>A Rust-based inference runtime designed to run models larger than available RAM or VRAM by treating storage, system memory, and GPU memory as a hierarchy.</p>
       <p><a href="https://github.com/NeonMC23/RAMforge">↗ Explore project</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>02 · NeoSense</h3>
-      <p><strong>Linux system tooling</strong></p>
-      <p>A modern CLI wrapper around NBFC (Notebook FanControl) for Linux, inspired by Acer NitroSense and focused on laptop fan-control workflows.</p>
+      <p><strong>Linux System Tooling</strong></p>
+      <p>A Linux CLI wrapper around NBFC (Notebook FanControl), inspired by Acer NitroSense and focused on laptop fan-control workflows.</p>
       <p><a href="https://github.com/NeonMC23/NeoSense">↗ Explore project</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>03 · LiDAR-HD-Viewer</h3>
-      <p><strong>Geospatial visualization</strong></p>
-      <p>A desktop viewer for LAS/LAZ point clouds, with multi-tile loading, level-of-detail rendering, terrain-like surfaces, and multiple coloring modes.</p>
+      <p><strong>Geospatial Visualization</strong></p>
+      <p>A desktop viewer for LAS/LAZ point clouds, with multi-tile loading, level-of-detail rendering, terrain visualization, and multiple coloring modes.</p>
       <p><a href="https://github.com/NeonMC23/LiDAR-HD-Viewer">↗ Explore project</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>04 · 0rbis-7B</h3>
-      <p><strong>Offline knowledge</strong></p>
-      <p>A local-first web interface designed to explore large datasets, map tiles, documents, and locally available AI models without relying on a constant internet connection.</p>
+      <p><strong>Offline Knowledge</strong></p>
+      <p>A local-first interface for exploring datasets, maps, documents, and locally available AI models.</p>
       <p><a href="https://github.com/NeonMC23/0rbis-7B">↗ Explore project</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>05 · Flow</h3>
-      <p><strong>Web applications</strong></p>
-      <p>A lightweight browser-based music player built with vanilla JavaScript, HTML, and CSS, featuring library organization, filtering, and waveform visualization.</p>
+      <p><strong>Web Applications</strong></p>
+      <p>A browser-based music player built with vanilla JavaScript, HTML, and CSS, featuring library organization, filtering, and waveform visualization.</p>
       <p><a href="https://github.com/NeonMC23/Flow">↗ Explore project</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>06 · NeoDesk</h3>
-      <p><strong>Browser productivity</strong></p>
-      <p>A customizable new-tab dashboard bringing quick links, search, widgets, and productivity features into a single browser interface.</p>
+      <p><strong>Browser Productivity</strong></p>
+      <p>A customizable new-tab dashboard combining quick links, search, widgets, and productivity features in one browser interface.</p>
       <p><a href="https://github.com/NeonMC23/NeoDesk">↗ Explore project</a></p>
     </td>
   </tr>
@@ -91,11 +91,11 @@ I enjoy understanding how things work under the hood and turning ideas into usab
 ## `03` — Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,javascript,html,css,bash,linux,git,github&theme=dark" alt="Technologies represented across public projects" />
+  <img src="https://skillicons.dev/icons?i=rust,python,javascript,html,css,bash,linux,git,github&theme=dark" alt="Technologies represented across projects" />
 </p>
 
 <p align="center">
-  <sub>Technologies and tools represented across my projects — not a proficiency ranking.</sub>
+  <sub>Technologies and tools represented across my projects and interests — not a proficiency ranking.</sub>
 </p>
 
 ## `04` — GitHub Statistics
@@ -116,6 +116,19 @@ I enjoy understanding how things work under the hood and turning ideas into usab
 <p align="center">
   <sub>Statistics are generated by third-party services and may occasionally be unavailable.</sub>
 </p>
+
+## `05` — Engineering Principles
+
+My engineering interests are guided by a few core ideas:
+
+- **Understand the underlying system.** Learn how the components work before adding abstractions on top.
+- **Separate responsibilities.** Keep components focused, interfaces explicit, and architectural boundaries clear.
+- **Make constraints part of the design.** Consider memory, compute, storage, and hardware limitations when designing software.
+- **Prefer practical solutions.** Optimize for useful functionality, maintainability, and understandable behavior rather than complexity for its own sake.
+- **Explore local-first approaches.** Where appropriate, favor software that can work with local resources and data.
+- **Build through experimentation.** Test ideas, evaluate trade-offs, and refine designs based on what works.
+
+These principles describe the engineering approach I value across systems software, AI infrastructure, and user-facing applications.
 
 ---
 
