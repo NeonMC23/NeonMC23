@@ -19,23 +19,68 @@
 
 ---
 
+
 ## Tech & Tools
 
 **LANGUAGES**
 
-![Rust](https://img.shields.io/badge/Rust-1C1C1C?style=flat-square&logo=rust&logoColor=A3E635)
-![Python](https://img.shields.io/badge/Python-1C1C1C?style=flat-square&logo=python&logoColor=A3E635)
-![JavaScript](https://img.shields.io/badge/JavaScript-1C1C1C?style=flat-square&logo=javascript&logoColor=A3E635)
-![HTML5](https://img.shields.io/badge/HTML5-1C1C1C?style=flat-square&logo=html5&logoColor=A3E635)
-![CSS3](https://img.shields.io/badge/CSS3-1C1C1C?style=flat-square&logo=css3&logoColor=A3E635)
-![Bash](https://img.shields.io/badge/Bash-1C1C1C?style=flat-square&logo=gnubash&logoColor=A3E635)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/rust" width="28" alt="Rust" /><br />
+      <sub>Rust</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="28" alt="Python" /><br />
+      <sub>Python</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="28" alt="JavaScript" /><br />
+      <sub>JavaScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/html5/E34F26" width="28" alt="HTML5" /><br />
+      <sub>HTML5</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/css/1572B6" width="28" alt="CSS3" /><br />
+      <sub>CSS3</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="28" alt="Bash" /><br />
+      <sub>Bash</sub>
+    </td>
+  </tr>
+</table>
 
 **ENVIRONMENT & TOOLS**
 
-![Linux](https://img.shields.io/badge/Linux-1C1C1C?style=flat-square&logo=linux&logoColor=A3E635)
-![Git](https://img.shields.io/badge/Git-1C1C1C?style=flat-square&logo=git&logoColor=A3E635)
-![GitHub](https://img.shields.io/badge/GitHub-1C1C1C?style=flat-square&logo=github&logoColor=A3E635)
-![VSCodium](https://img.shields.io/badge/VSCodium-1C1C1C?style=flat-square&logo=vscodium&logoColor=A3E635)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/linux/FCC624" width="28" alt="Linux" /><br />
+      <sub>Linux</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/git/F05032" width="28" alt="Git" /><br />
+      <sub>Git</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/github/FFFFFF" width="28" alt="GitHub" /><br />
+      <sub>GitHub</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/vscodium/2F80ED" width="28" alt="VSCodium" /><br />
+      <sub>VSCodium</sub>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 
 
