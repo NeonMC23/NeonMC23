@@ -1,6 +1,6 @@
 # Neon
 
-/*<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:171717,100:252525&text=NEON&fontColor=A3E635&fontSize=68&fontAlignY=42&desc=INDEPENDENT%20DEVELOPER%20%2F%2F%20SYSTEMS%20%2F%2F%20LOCAL%20AI&descAlignY=70&descSize=14&animation=fadeIn" width="100%" alt="NEON — Independent Developer" />
 </p>
 
@@ -19,68 +19,66 @@
 
 ---
 
-
 ## Tech & Tools
 
 **LANGUAGES**
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/rust" width="28" alt="Rust" /><br />
-      <sub>Rust</sub>
+    <td align="center" width="16.66%">
+      <img src="https://cdn.simpleicons.org/rust" width="38" alt="Rust" /><br /><br />
+      <strong>Rust</strong>
     </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/python/3776AB" width="28" alt="Python" /><br />
-      <sub>Python</sub>
+    <td align="center" width="16.66%">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="38" alt="Python" /><br /><br />
+      <strong>Python</strong>
     </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="28" alt="JavaScript" /><br />
-      <sub>JavaScript</sub>
+    <td align="center" width="16.66%">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="38" alt="JavaScript" /><br /><br />
+      <strong>JavaScript</strong>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/html5/E34F26" width="28" alt="HTML5" /><br />
-      <sub>HTML5</sub>
+    <td align="center" width="16.66%">
+      <img src="https://cdn.simpleicons.org/html5/E34F26" width="38" alt="HTML5" /><br /><br />
+      <strong>HTML5</strong>
     </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/css/1572B6" width="28" alt="CSS3" /><br />
-      <sub>CSS3</sub>
+    <td align="center" width="16.66%">
+      <img src="https://cdn.simpleicons.org/css/1572B6" width="38" alt="CSS3" /><br /><br />
+      <strong>CSS3</strong>
     </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="28" alt="Bash" /><br />
-      <sub>Bash</sub>
+    <td align="center" width="16.66%">
+      <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="38" alt="Bash" /><br /><br />
+      <strong>Bash</strong>
     </td>
   </tr>
 </table>
+
+<br />
 
 **ENVIRONMENT & TOOLS**
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/linux/FCC624" width="28" alt="Linux" /><br />
-      <sub>Linux</sub>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/linux/FCC624" width="38" alt="Linux" /><br /><br />
+      <strong>Linux</strong>
     </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/git/F05032" width="28" alt="Git" /><br />
-      <sub>Git</sub>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/git/F05032" width="38" alt="Git" /><br /><br />
+      <strong>Git</strong>
     </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/github/FFFFFF" width="28" alt="GitHub" /><br />
-      <sub>GitHub</sub>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" alt="GitHub" /><br /><br />
+      <strong>GitHub</strong>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/vscodium/2F80ED" width="28" alt="VSCodium" /><br />
-      <sub>VSCodium</sub>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/vscodium/2F80ED" width="38" alt="VSCodium" /><br /><br />
+      <strong>VSCodium</strong>
     </td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
+
+
+
 
 
 
