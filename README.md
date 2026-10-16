@@ -19,13 +19,22 @@
 
 ---
 
-### Languages
+### Tech & Tools
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=rust,python,js,html,css,bash&perline=3&titles=true)
+#### Languages
 
-### Environment & Tools
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,python,js&perline=3&titles=true" alt="Rust, Python, JavaScript" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bash&perline=3&titles=true" alt="HTML5, CSS3, Bash" />
+</p>
 
-![Environment and Tools](https://go-skill-icons.vercel.app/api/icons?i=linux,git,github,vscodium&perline=4&titles=true)
+#### Environment & Tools
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,git,github,vscodium&perline=4&titles=true" alt="Linux, Git, GitHub, VSCodium" />
+</p>
 
 
 
