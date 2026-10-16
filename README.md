@@ -1,6 +1,6 @@
 # Neon
 
-<p align="center">
+/*<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:171717,100:252525&text=NEON&fontColor=A3E635&fontSize=68&fontAlignY=42&desc=INDEPENDENT%20DEVELOPER%20%2F%2F%20SYSTEMS%20%2F%2F%20LOCAL%20AI&descAlignY=70&descSize=14&animation=fadeIn" width="100%" alt="NEON — Independent Developer" />
 </p>
 
@@ -18,6 +18,34 @@
 </p>
 
 ---
+
+## Tech & Tools
+
+**LANGUAGES**
+
+![Rust](https://img.shields.io/badge/Rust-1C1C1C?style=flat-square&logo=rust&logoColor=A3E635)
+![Python](https://img.shields.io/badge/Python-1C1C1C?style=flat-square&logo=python&logoColor=A3E635)
+![JavaScript](https://img.shields.io/badge/JavaScript-1C1C1C?style=flat-square&logo=javascript&logoColor=A3E635)
+![HTML5](https://img.shields.io/badge/HTML5-1C1C1C?style=flat-square&logo=html5&logoColor=A3E635)
+![CSS3](https://img.shields.io/badge/CSS3-1C1C1C?style=flat-square&logo=css3&logoColor=A3E635)
+![Bash](https://img.shields.io/badge/Bash-1C1C1C?style=flat-square&logo=gnubash&logoColor=A3E635)
+
+**ENVIRONMENT & TOOLS**
+
+![Linux](https://img.shields.io/badge/Linux-1C1C1C?style=flat-square&logo=linux&logoColor=A3E635)
+![Git](https://img.shields.io/badge/Git-1C1C1C?style=flat-square&logo=git&logoColor=A3E635)
+![GitHub](https://img.shields.io/badge/GitHub-1C1C1C?style=flat-square&logo=github&logoColor=A3E635)
+![VSCodium](https://img.shields.io/badge/VSCodium-1C1C1C?style=flat-square&logo=vscodium&logoColor=A3E635)
+
+
+
+
+
+
+
+
+
+
 
 ## `01` — About
 
