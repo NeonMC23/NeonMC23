@@ -1,16 +1,5 @@
-img src="https://go-skill-icons.vercel.app/api/icons?i=python" height="45" alt="Python" />
-      </a>
-      <br><sub>Python</sub>
-    </td>
-    <td align="center" width="150">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=js" height="45" alt="JavaScript" />
-      </a>
-      <br><sub>JavaScript</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
+
+idth="150">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=html" height="45" alt="HTML5" />
       </a>
