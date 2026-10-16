@@ -101,8 +101,9 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=NeonMC23&show_icons=true&include_all_commits=true&hide_border=true&bg_color=1C1C1C&title_color=A3E635&text_color=E5E7EB&icon_color=A3E635&ring_color=A3E635"
-    alt="Neon's GitHub Stats"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NeonMC23&bg_color=1C1C1C&color=E5E7EB&line=A3E635&point=A3E635&area=true&area_color=A3E635&title_color=A3E635&hide_border=true"
+    alt="GitHub Activity Graph"
+    width="100%"
   />
 </p>
 
