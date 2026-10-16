@@ -123,6 +123,51 @@
   />
 </p>
 
+### Selected Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>RAMforge</h3>
+      A Rust inference runtime designed to run large local models by orchestrating storage, system RAM and VRAM.
+      <br><br>
+      <a href="https://github.com/NeonMC23/RAMforge">Explore repository →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>LiDAR-HD-Viewer</h3>
+      A desktop viewer for LAS/LAZ point clouds, featuring multi-tile loading, level of detail and terrain visualization.
+      <br><br>
+      <a href="https://github.com/NeonMC23/LiDAR-HD-Viewer">Explore repository →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>NeoSense</h3>
+      A Linux CLI for notebook fan control through NBFC, inspired by Acer NitroSense.
+      <br><br>
+      <a href="https://github.com/NeonMC23/NeoSense">Explore repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>0rbis-7B</h3>
+      An offline-first local knowledge interface.
+      <br><br>
+      <a href="https://github.com/NeonMC23/0rbis-7B">Explore repository →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Flow</h3>
+      A browser-based music player built with vanilla JavaScript, HTML and CSS.
+      <br><br>
+      <a href="https://github.com/NeonMC23/Flow">Explore repository →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>NeoDesk</h3>
+      A customizable dashboard for the browser's new-tab page.
+      <br><br>
+      <a href="https://github.com/NeonMC23/NeoDesk">Explore repository →</a>
+    </td>
+  </tr>
+</table>
+
 
 
 
