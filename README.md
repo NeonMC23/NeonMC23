@@ -110,7 +110,7 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonMC23&layout=compact&langs_count=6&hide_border=true&bg_color=1C1C1C&title_color=A3E635&text_color=E5E7EB"
-    height="180"
+    height="200"
     alt="Top Languages"
   />
   &nbsp;&nbsp;
