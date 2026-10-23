@@ -95,6 +95,12 @@
       <br><sub>VSCodium</sub>
     </td>
   </tr>
+  <td align="center" width="150">
+  <a href="https://opencode.ai/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=opencode" height="45" alt="OpenCode" />
+  </a>
+  <br><sub>OpenCode</sub>
+</td>
 </table>
 
 ### GitHub Statistics
