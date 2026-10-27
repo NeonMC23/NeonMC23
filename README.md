@@ -1,4 +1,4 @@
-# Neon
+# NeonMC23
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:171717,100:252525&text=NEON&fontColor=A3E635&fontSize=68&fontAlignY=42&desc=INDEPENDENT%20DEVELOPER%20%2F%2F%20SYSTEMS%20%2F%2F%20LOCAL%20AI&descAlignY=70&descSize=14&animation=fadeIn" width="100%" alt="NEON — Independent Developer" />
