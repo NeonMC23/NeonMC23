@@ -179,60 +179,91 @@
 
 ### Selected Projects
 
+<p align="center">
+  <sub> A selection of projects focused on systems, local AI, hardware and software development.</sub>
+</p>
+
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>RAMforge</h3>
-      A Rust inference runtime that orchestrates storage, system RAM and VRAM to run local models beyond available memory.
-      <br><br>
-      <code>Rust</code> <code>AI</code> <code>Systems</code>
-      <br><br>
-      <a href="https://github.com/NeonMC23/RAMforge">View repository ↗</a>
+      <p>
+        A Rust-based local inference runtime designed to run models larger than available RAM or VRAM by orchestrating system memory, GPU memory and storage.
+      </p>
+      <p>
+        <sub><strong>STACK</strong> · Rust · GGUF · llama.cpp</sub>
+      </p>
+      <a href="https://github.com/NeonMC23/RAMforge">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-1C1C1C?style=for-the-badge&logo=github&logoColor=FF66C4" alt="View RAMforge repository" />
+      </a>
     </td>
-    <td width="33%" valign="top">
-      <h3>LiDAR-HD-Viewer</h3>
-      A desktop point-cloud viewer with multi-tile LAS/LAZ loading, level of detail and terrain visualization.
-      <br><br>
-      <code>LiDAR</code> <code>3D</code> <code>Desktop</code>
-      <br><br>
-      <a href="https://github.com/NeonMC23/LiDAR-HD-Viewer">View repository ↗</a>
-    </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>NeoSense</h3>
-      A Linux command-line tool for notebook fan control through NBFC, inspired by Acer NitroSense.
-      <br><br>
-      <code>Linux</code> <code>CLI</code> <code>Hardware</code>
-      <br><br>
-      <a href="https://github.com/NeonMC23/NeoSense">View repository ↗</a>
+      <p>
+        A Linux fan-control CLI and supervisor built around NBFC, bringing a modern control interface and safety-oriented hardware management to Acer laptops.
+      </p>
+      <p>
+        <sub><strong>STACK</strong> · Rust · Bash · Linux</sub>
+      </p>
+      <a href="https://github.com/NeonMC23/NeoSense">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-1C1C1C?style=for-the-badge&logo=github&logoColor=FF66C4" alt="View NeoSense repository" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
-      <h3>0rbis-7B</h3>
-      An offline-first knowledge interface designed for local access to information.
-      <br><br>
-      <code>AI</code> <code>Offline-first</code> <code>Knowledge</code>
-      <br><br>
-      <a href="https://github.com/NeonMC23/0rbis-7B">View repository ↗</a>
+    <td width="50%" valign="top">
+      <h3>LiDAR-HD-Viewer</h3>
+      <p>
+        A desktop application for exploring large LAS/LAZ point clouds, featuring multi-tile loading, level-of-detail rendering and multiple visualization modes.
+      </p>
+      <p>
+        <sub><strong>STACK</strong> · Python · PyQt6 · OpenGL</sub>
+      </p>
+      <a href="https://github.com/NeonMC23/LiDAR-HD-Viewer">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-1C1C1C?style=for-the-badge&logo=github&logoColor=FF66C4" alt="View LiDAR-HD-Viewer repository" />
+      </a>
     </td>
-    <td width="33%" valign="top">
-      <h3>Flow</h3>
-      A browser-based music player built with vanilla JavaScript, HTML and CSS, without a frontend framework.
-      <br><br>
-      <code>JavaScript</code> <code>HTML</code> <code>CSS</code>
-      <br><br>
+    <td width="50%" valign="top">
+      <h3>0rbis-7B</h3>
+      <p>
+        An offline-first knowledge environment designed to explore large local datasets, including encyclopedias, maps, documents and local AI models.
+      </p>
+      <p>
+        <sub><strong>STACK</strong> · HTML · Local-first · AI</sub>
+      </p>
+      <a href="https://github.com/NeonMC23/0rbis-7B">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-1C1C1C?style=for-the-badge&logo=github&logoColor=FF66C4" alt="View 0rbis-7B repository" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+#### More Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Flow</strong>
+      <br>
+      A lightweight browser-based music player with a dynamic music library, album organization and real-time filtering.
+      <br>
+      <sub>JavaScript · HTML · CSS</sub>
+      <br>
       <a href="https://github.com/NeonMC23/Flow">View repository ↗</a>
     </td>
-    <td width="33%" valign="top">
-      <h3>NeoDesk</h3>
-      A customizable browser new-tab dashboard that brings shortcuts and useful information into one place.
-      <br><br>
-      <code>JavaScript</code> <code>Web</code> <code>Dashboard</code>
-      <br><br>
+    <td width="50%" valign="top">
+      <strong>NeoDesk</strong>
+      <br>
+      A customizable browser new-tab dashboard bringing shortcuts, useful tools and productivity features together.
+      <br>
+      <sub>JavaScript · HTML · CSS</sub>
+      <br>
       <a href="https://github.com/NeonMC23/NeoDesk">View repository ↗</a>
     </td>
   </tr>
 </table>
+
+---
 
 ### About
 
