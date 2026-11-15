@@ -125,7 +125,7 @@
     </td>
     <td align="center" width="150">
       <a href="https://github.com/">
-        <img src="https://cdn.simpleicons.org/konsole/FFFFFF" height="45" alt="Konsole" />
+        <img src="https://skillicons.dev/icons?i=konsole&theme=dark" height="45" alt="Konsole" />
       </a>
       <br><sub>Konsole</sub>
     </td>
