@@ -55,11 +55,25 @@
   </tr>
   <tr>
     <td align="center" width="150">
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="45" alt="TypeScript" />
+      </a>
+      <br><sub>TypeScript</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://en.cppreference.com/w/c/language">
+        <img src="https://skillicons.dev/icons?i=c&theme=dark" height="45" alt="C" />
+      </a>
+      <br><sub>C</sub>
+    </td>
+    <td align="center" width="150">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img src="https://skillicons.dev/icons?i=html&theme=dark" height="45" alt="HTML5" />
       </a>
       <br><sub>HTML5</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="150">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img src="https://skillicons.dev/icons?i=css&theme=dark" height="45" alt="CSS3" />
@@ -71,6 +85,9 @@
         <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="45" alt="Bash" />
       </a>
       <br><sub>Bash</sub>
+    </td>
+    <td align="center" width="150">
+      &nbsp;
     </td>
   </tr>
 </table>
@@ -112,8 +129,21 @@
       <br><sub>OpenCode</sub>
     </td>
     <td align="center" width="150">
-      &nbsp;
+      <a href="https://yaml.org/">
+        <img src="https://skillicons.dev/icons?i=yaml&theme=dark" height="45" alt="YAML" />
+      </a>
+      <br><sub>YAML</sub>
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://isocpp.org/">
+        <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="45" alt="C++" />
+      </a>
+      <br><sub>C++</sub>
+    </td>
+    <td align="center" width="150">&nbsp;</td>
+    <td align="center" width="150">&nbsp;</td>
   </tr>
 </table>
 
