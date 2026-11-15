@@ -277,17 +277,28 @@
 
 ### About
 
-I'm a developer focused on systems programming, local AI infrastructure, and practical open-source software. I enjoy building tools that solve concrete problems, exploring low-level engineering, and designing systems with clear boundaries and long-term maintainability in mind.
+<p align="center">
+  <strong>Independent Developer</strong>
+</p>
 
-My projects range from resource-efficient AI runtimes and hardware utilities to geospatial visualization and lightweight web applications.
+<p align="center">
+  I build software to understand systems, explore ideas and solve technical challenges.
+</p>
 
-#### Engineering Principles
+<p align="center">
+  Interested in systems programming, local AI, hardware and open-source software, I enjoy turning ideas into practical projects and learning through experimentation.
+</p>
 
-- **Performance with purpose** — Optimize where it matters, without sacrificing correctness.
-- **Clear architecture** — Keep responsibilities separated and interfaces explicit.
-- **Resource awareness** — Treat memory, storage, and compute as constraints to engineer around.
-- **Privacy by design** — Prefer local-first solutions and minimize unnecessary dependencies.
-- **Open-source mindset** — Build software that others can inspect, understand, and improve.
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEMS-1C1C1C?style=flat-square&logoColor=A3E635" alt="Systems" />
+  <img src="https://img.shields.io/badge/LOCAL_AI-1C1C1C?style=flat-square&logoColor=FF66C4" alt="Local AI" />
+  <img src="https://img.shields.io/badge/HARDWARE-1C1C1C?style=flat-square&logoColor=A3E635" alt="Hardware" />
+  <img src="https://img.shields.io/badge/OPEN_SOURCE-1C1C1C?style=flat-square&logo=opensourceinitiative&logoColor=FF66C4" alt="Open Source" />
+</p>
+
+<p align="center">
+  <strong>BUILD // EXPLORE // UNDERSTAND</strong>
+</p>
 
 ---
 
