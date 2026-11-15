@@ -52,14 +52,14 @@
       </a>
       <br><sub>JavaScript</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="150">
       <a href="https://www.typescriptlang.org/">
         <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="45" alt="TypeScript" />
       </a>
       <br><sub>TypeScript</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="150">
       <a href="https://en.cppreference.com/w/c/language">
         <img src="https://skillicons.dev/icons?i=c&theme=dark" height="45" alt="C" />
@@ -72,8 +72,6 @@
       </a>
       <br><sub>HTML5</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="150">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img src="https://skillicons.dev/icons?i=css&theme=dark" height="45" alt="CSS3" />
@@ -85,9 +83,6 @@
         <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="45" alt="Bash" />
       </a>
       <br><sub>Bash</sub>
-    </td>
-    <td align="center" width="150">
-      &nbsp;
     </td>
   </tr>
 </table>
@@ -133,6 +128,14 @@
         <img src="https://cdn.simpleicons.org/llama/FFFFFF" height="45" alt="llama.cpp" />
       </a>
       <br><sub>llama.cpp</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://github.com/">
+        <img src="https://skillicons.dev/icons?i=terminal&theme=dark" height="45" alt="Terminal" />
+      </a>
+      <br><sub>Console</sub>
     </td>
   </tr>
 </table>
