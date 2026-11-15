@@ -148,20 +148,20 @@
   <tr>
     <td width="50%" valign="top">
       <img
-        src="https://ghstats.dev/api/card?username=NeonMC23&size=compact&compact_count=4&bg=1C1C1C&text=E5E7EB&title_color=FF66C4&icon_color=A3E635&border_color=303036&show_icons=true&show_ring=false"
+        src="https://ghstats.dev/api/card?username=NeonMC23&size=default&bg=1C1C1C&text=E5E7EB&title_color=FF66C4&icon_color=A3E635&border_color=303036&show_icons=true&show_ring=true"
         width="100%"
         alt="Neon's GitHub Statistics"
       />
     </td>
     <td width="50%" valign="top">
       <img
-        src="https://ghstats.dev/api/langs?username=NeonMC23&layout=compact&max_langs=6&bg=1C1C1C&text=E5E7EB&title_color=FF66C4&icon_color=A3E635&border_color=303036"
+        src="https://ghstats.dev/api/langs?username=NeonMC23&layout=bar&max_langs=8&bg=1C1C1C&text=E5E7EB&title_color=FF66C4&icon_color=A3E635&border_color=303036"
         width="100%"
         alt="Neon's Top Languages"
       />
       <br>
       <img
-        src="https://ghstats.dev/api/sparkline?username=NeonMC23&days=30&width=420&height=110&line_color=FF66C4&fill_color=1C1C1C&hide_border=true"
+        src="https://ghstats.dev/api/sparkline?username=NeonMC23&days=30&width=420&height=110&line_color=A3E635&fill_color=24351A&hide_border=true"
         width="100%"
         alt="Neon's GitHub Activity — Last 30 Days"
       />
