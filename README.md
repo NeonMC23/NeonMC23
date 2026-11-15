@@ -1,5 +1,4 @@
-# Neon
- <p align="center">
+<p align="center">
   <img
     src="./assets/banner.svg"
     width="100%"
@@ -26,7 +25,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="" />
+</p>
 
 ### Tech & Tools
 
@@ -132,7 +133,9 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="" />
+</p>
 
 ### GitHub Statistics
 
@@ -175,7 +178,9 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="" />
+</p>
 
 ### Selected Projects
 
@@ -277,7 +282,9 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="" />
+</p>
 
 ### About
 
@@ -304,12 +311,17 @@
   <strong>BUILD // EXPLORE // UNDERSTAND</strong>
 </p>
 
----
+<p align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="" />
+</p>
 
 <p align="center">
   <sub>Build with purpose. Learn continuously.</sub>
   <br>
-  <a href="https://github.com/NeonMC23?tab=repositories">Explore my repositories ↗</a>
+  <a href="https://github.com/NeonMC23?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-1C1C1C?style=for-the-badge&logo=github&logoColor=FF66C4"
+      alt="View all repositories"
+    />
+  </a>
 </p>
-
----
