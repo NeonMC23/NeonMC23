@@ -161,6 +161,12 @@
       />
       <br>
       <img
+        src="https://ghstats.dev/api/langs?username=NeonMC23&layout=donut&max_langs=8&hide_title=true&bg=1C1C1C&text=E5E7EB&title_color=FF66C4&icon_color=A3E635&border_color=303036"
+        width="100%"
+        alt="Neon's Language Distribution"
+      />
+      <br>
+      <img
         src="https://ghstats.dev/api/sparkline?username=NeonMC23&days=30&width=420&height=110&line_color=A3E635&fill_color=24351A&hide_border=true"
         width="100%"
         alt="Neon's GitHub Activity — Last 30 Days"
