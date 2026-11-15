@@ -124,18 +124,10 @@
       <br><sub>OpenCode</sub>
     </td>
     <td align="center" width="150">
-      <a href="https://github.com/ggml-org/llama.cpp">
-        <img src="https://cdn.simpleicons.org/llama/FFFFFF" height="45" alt="llama.cpp" />
-      </a>
-      <br><sub>llama.cpp</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
       <a href="https://github.com/">
-        <img src="https://skillicons.dev/icons?i=terminal&theme=dark" height="45" alt="Terminal" />
+        <img src="https://cdn.simpleicons.org/konsole/FFFFFF" height="45" alt="Konsole" />
       </a>
-      <br><sub>Console</sub>
+      <br><sub>Konsole</sub>
     </td>
   </tr>
 </table>
