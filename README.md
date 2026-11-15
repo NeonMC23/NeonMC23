@@ -180,7 +180,7 @@
 ### Selected Projects
 
 <p align="center">
-  <sub> A selection of projects focused on systems, local AI, hardware and software development.</sub>
+  <sub>A selection of projects focused on systems, local AI, hardware and software development.</sub>
 </p>
 
 <table>
@@ -191,7 +191,9 @@
         A Rust-based local inference runtime designed to run models larger than available RAM or VRAM by orchestrating system memory, GPU memory and storage.
       </p>
       <p>
-        <sub><strong>STACK</strong> · Rust · GGUF · llama.cpp</sub>
+        <img src="https://img.shields.io/badge/-Rust-1C1C1C?style=flat-square&logo=rust&logoColor=FF66C4" alt="Rust" />
+        <img src="https://img.shields.io/badge/-GGUF-1C1C1C?style=flat-square&logoColor=A3E635" alt="GGUF" />
+        <img src="https://img.shields.io/badge/-llama.cpp-1C1C1C?style=flat-square" alt="llama.cpp" />
       </p>
       <a href="https://github.com/NeonMC23/RAMforge">
         <img src="https://img.shields.io/badge/VIEW_REPOSITORY-1C1C1C?style=for-the-badge&logo=github&logoColor=FF66C4" alt="View RAMforge repository" />
@@ -203,7 +205,9 @@
         A Linux fan-control CLI and supervisor built around NBFC, bringing a modern control interface and safety-oriented hardware management to Acer laptops.
       </p>
       <p>
-        <sub><strong>STACK</strong> · Rust · Bash · Linux</sub>
+        <img src="https://img.shields.io/badge/-Rust-1C1C1C?style=flat-square&logo=rust&logoColor=FF66C4" alt="Rust" />
+        <img src="https://img.shields.io/badge/-Bash-1C1C1C?style=flat-square&logo=gnubash&logoColor=A3E635" alt="Bash" />
+        <img src="https://img.shields.io/badge/-Linux-1C1C1C?style=flat-square&logo=linux&logoColor=FF66C4" alt="Linux" />
       </p>
       <a href="https://github.com/NeonMC23/NeoSense">
         <img src="https://img.shields.io/badge/VIEW_REPOSITORY-1C1C1C?style=for-the-badge&logo=github&logoColor=FF66C4" alt="View NeoSense repository" />
@@ -217,7 +221,9 @@
         A desktop application for exploring large LAS/LAZ point clouds, featuring multi-tile loading, level-of-detail rendering and multiple visualization modes.
       </p>
       <p>
-        <sub><strong>STACK</strong> · Python · PyQt6 · OpenGL</sub>
+        <img src="https://img.shields.io/badge/-Python-1C1C1C?style=flat-square&logo=python&logoColor=A3E635" alt="Python" />
+        <img src="https://img.shields.io/badge/-PyQt6-1C1C1C?style=flat-square&logo=qt&logoColor=FF66C4" alt="PyQt6" />
+        <img src="https://img.shields.io/badge/-OpenGL-1C1C1C?style=flat-square" alt="OpenGL" />
       </p>
       <a href="https://github.com/NeonMC23/LiDAR-HD-Viewer">
         <img src="https://img.shields.io/badge/VIEW_REPOSITORY-1C1C1C?style=for-the-badge&logo=github&logoColor=FF66C4" alt="View LiDAR-HD-Viewer repository" />
@@ -229,7 +235,9 @@
         An offline-first knowledge environment designed to explore large local datasets, including encyclopedias, maps, documents and local AI models.
       </p>
       <p>
-        <sub><strong>STACK</strong> · HTML · Local-first · AI</sub>
+        <img src="https://img.shields.io/badge/-HTML-1C1C1C?style=flat-square&logo=html5&logoColor=FF66C4" alt="HTML" />
+        <img src="https://img.shields.io/badge/-Local--first-1C1C1C?style=flat-square" alt="Local-first" />
+        <img src="https://img.shields.io/badge/-AI-1C1C1C?style=flat-square&logoColor=A3E635" alt="AI" />
       </p>
       <a href="https://github.com/NeonMC23/0rbis-7B">
         <img src="https://img.shields.io/badge/VIEW_REPOSITORY-1C1C1C?style=for-the-badge&logo=github&logoColor=FF66C4" alt="View 0rbis-7B repository" />
@@ -244,20 +252,22 @@
   <tr>
     <td width="50%" valign="top">
       <strong>Flow</strong>
-      <br>
-      A lightweight browser-based music player with a dynamic music library, album organization and real-time filtering.
-      <br>
-      <sub>JavaScript · HTML · CSS</sub>
-      <br>
+      <p>A lightweight browser-based music player with a dynamic music library, album organization and real-time filtering.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-JavaScript-1C1C1C?style=flat-square&logo=javascript&logoColor=A3E635" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/-HTML-1C1C1C?style=flat-square&logo=html5&logoColor=FF66C4" alt="HTML" />
+        <img src="https://img.shields.io/badge/-CSS-1C1C1C?style=flat-square&logo=css3&logoColor=A3E635" alt="CSS" />
+      </p>
       <a href="https://github.com/NeonMC23/Flow">View repository ↗</a>
     </td>
     <td width="50%" valign="top">
       <strong>NeoDesk</strong>
-      <br>
-      A customizable browser new-tab dashboard bringing shortcuts, useful tools and productivity features together.
-      <br>
-      <sub>JavaScript · HTML · CSS</sub>
-      <br>
+      <p>A customizable browser new-tab dashboard bringing shortcuts, useful tools and productivity features together.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-JavaScript-1C1C1C?style=flat-square&logo=javascript&logoColor=A3E635" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/-HTML-1C1C1C?style=flat-square&logo=html5&logoColor=FF66C4" alt="HTML" />
+        <img src="https://img.shields.io/badge/-CSS-1C1C1C?style=flat-square&logo=css3&logoColor=A3E635" alt="CSS" />
+      </p>
       <a href="https://github.com/NeonMC23/NeoDesk">View repository ↗</a>
     </td>
   </tr>
