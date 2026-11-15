@@ -27,94 +27,40 @@
 </p>
 
 ---
-
-
-
----
-
 ### Tech & Tools
 
 #### Languages
 
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <a href="https://www.rust-lang.org/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=rust" height="45" alt="Rust" />
-      </a>
-      <br><sub>Rust</sub>
-    </td>
-    <td align="center" width="150">
-      <a href="https://www.python.org/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=python" height="45" alt="Python" />
-      </a>
-      <br><sub>Python</sub>
-    </td>
-    <td align="center" width="150">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=js" height="45" alt="JavaScript" />
-      </a>
-      <br><sub>JavaScript</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=html" height="45" alt="HTML5" />
-      </a>
-      <br><sub>HTML5</sub>
-    </td>
-    <td align="center" width="150">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=css" height="45" alt="CSS3" />
-      </a>
-      <br><sub>CSS3</sub>
-    </td>
-    <td align="center" width="150">
-      <a href="https://www.gnu.org/software/bash/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=bash" height="45" alt="Bash" />
-      </a>
-      <br><sub>Bash</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=rust,py,js,html,css,bash&theme=dark&perline=6"
+      alt="Rust, Python, JavaScript, HTML5, CSS3 and Bash"
+    />
+  </a>
+</p>
 
 #### Environment & Tools
 
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <a href="https://www.linux.org/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=linux" height="45" alt="Linux" />
-      </a>
-      <br><sub>Linux</sub>
-    </td>
-    <td align="center" width="150">
-      <a href="https://git-scm.com/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="45" alt="Git" />
-      </a>
-      <br><sub>Git</sub>
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=github" height="45" alt="GitHub" />
-      </a>
-      <br><sub>GitHub</sub>
-    </td>
-    <td align="center" width="150">
-      <a href="https://vscodium.com/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=vscodium" height="45" alt="VSCodium" />
-      </a>
-      <br><sub>VSCodium</sub>
-    </td>
-    <td align="center" width="150">
-      <a href="https://opencode.ai/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=opencode" height="45" alt="OpenCode" />
-      </a>
-      <br><sub>OpenCode</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=linux,git,github,vscodium&theme=dark&perline=4"
+      alt="Linux, Git, GitHub and VSCodium"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://opencode.ai/">
+    <img
+      src="https://img.shields.io/badge/OpenCode-AI%20Coding-1C1C1C?style=for-the-badge&labelColor=1C1C1C"
+      alt="OpenCode"
+    />
+  </a>
+</p>
+
+---
 
 ### GitHub Statistics
 
