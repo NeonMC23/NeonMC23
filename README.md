@@ -129,21 +129,11 @@
       <br><sub>OpenCode</sub>
     </td>
     <td align="center" width="150">
-      <a href="https://yaml.org/">
-        <img src="https://skillicons.dev/icons?i=yaml&theme=dark" height="45" alt="YAML" />
+      <a href="https://github.com/ggml-org/llama.cpp">
+        <img src="https://cdn.simpleicons.org/llama/FFFFFF" height="45" alt="llama.cpp" />
       </a>
-      <br><sub>YAML</sub>
+      <br><sub>llama.cpp</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://isocpp.org/">
-        <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="45" alt="C++" />
-      </a>
-      <br><sub>C++</sub>
-    </td>
-    <td align="center" width="150">&nbsp;</td>
-    <td align="center" width="150">&nbsp;</td>
   </tr>
 </table>
 
