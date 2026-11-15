@@ -258,7 +258,9 @@
         <img src="https://img.shields.io/badge/-HTML-1C1C1C?style=flat-square&logo=html5&logoColor=FF66C4" alt="HTML" />
         <img src="https://img.shields.io/badge/-CSS-1C1C1C?style=flat-square&logo=css3&logoColor=A3E635" alt="CSS" />
       </p>
-      <a href="https://github.com/NeonMC23/Flow">View repository ↗</a>
+      <a href="https://github.com/NeonMC23/Flow">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-1C1C1C?style=for-the-badge&logo=github&logoColor=FF66C4" alt="View repository" />
+      </a>
     </td>
     <td width="50%" valign="top">
       <strong>NeoDesk</strong>
@@ -268,7 +270,9 @@
         <img src="https://img.shields.io/badge/-HTML-1C1C1C?style=flat-square&logo=html5&logoColor=FF66C4" alt="HTML" />
         <img src="https://img.shields.io/badge/-CSS-1C1C1C?style=flat-square&logo=css3&logoColor=A3E635" alt="CSS" />
       </p>
-      <a href="https://github.com/NeonMC23/NeoDesk">View repository ↗</a>
+      <a href="https://github.com/NeonMC23/NeoDesk">
+        <img src="https://img.shields.io/badge/VIEW_REPOSITORY-1C1C1C?style=for-the-badge&logo=github&logoColor=FF66C4" alt="View repository" />
+      </a>
     </td>
   </tr>
 </table>
