@@ -27,38 +27,95 @@
 </p>
 
 ---
+
 ### Tech & Tools
 
 #### Languages
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=rust,py,js,html,css,bash&theme=dark&perline=6"
-      alt="Rust, Python, JavaScript, HTML5, CSS3 and Bash"
-    />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <a href="https://www.rust-lang.org/">
+        <img src="https://skillicons.dev/icons?i=rust&theme=dark" height="45" alt="Rust" />
+      </a>
+      <br><sub>Rust</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://www.python.org/">
+        <img src="https://skillicons.dev/icons?i=py&theme=dark" height="45" alt="Python" />
+      </a>
+      <br><sub>Python</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://skillicons.dev/icons?i=js&theme=dark" height="45" alt="JavaScript" />
+      </a>
+      <br><sub>JavaScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://skillicons.dev/icons?i=html&theme=dark" height="45" alt="HTML5" />
+      </a>
+      <br><sub>HTML5</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://skillicons.dev/icons?i=css&theme=dark" height="45" alt="CSS3" />
+      </a>
+      <br><sub>CSS3</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://www.gnu.org/software/bash/">
+        <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="45" alt="Bash" />
+      </a>
+      <br><sub>Bash</sub>
+    </td>
+  </tr>
+</table>
 
 #### Environment & Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=linux,git,github,vscodium&theme=dark&perline=4"
-      alt="Linux, Git, GitHub and VSCodium"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://opencode.ai/">
-    <img
-      src="https://img.shields.io/badge/OpenCode-AI%20Coding-1C1C1C?style=for-the-badge&labelColor=1C1C1C"
-      alt="OpenCode"
-    />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <a href="https://www.linux.org/">
+        <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="45" alt="Linux" />
+      </a>
+      <br><sub>Linux</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://git-scm.com/">
+        <img src="https://skillicons.dev/icons?i=git&theme=dark" height="45" alt="Git" />
+      </a>
+      <br><sub>Git</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/">
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" alt="GitHub" />
+      </a>
+      <br><sub>GitHub</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://vscodium.com/">
+        <img src="https://skillicons.dev/icons?i=vscodium&theme=dark" height="45" alt="VSCodium" />
+      </a>
+      <br><sub>VSCodium</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://opencode.ai/">
+        <img src="https://cdn.simpleicons.org/opencode/FFFFFF" height="45" alt="OpenCode" />
+      </a>
+      <br><sub>OpenCode</sub>
+    </td>
+    <td align="center" width="150">
+      &nbsp;
+    </td>
+  </tr>
+</table>
 
 ---
 
