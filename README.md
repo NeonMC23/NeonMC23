@@ -1,7 +1,10 @@
 # Neon
-NEED TO REFRESH THIS SECTION, THIS ISN'T FINAL VERSION!!!
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:171717,100:252525&text=NEON&fontColor=A3E635&fontSize=68&fontAlignY=42&desc=INDEPENDENT%20DEVELOPER%20%2F%2F%20SYSTEMS%20%2F%2F%20LOCAL%20AI&descAlignY=70&descSize=14&animation=fadeIn" width="100%" alt="NEON — Independent Developer" />
+ <p align="center">
+  <img
+    src="./assets/banner.svg"
+    width="100%"
+    alt="NEON — Independent Developer"
+  />
 </p>
 
 <p align="center">
@@ -10,12 +13,22 @@ NEED TO REFRESH THIS SECTION, THIS ISN'T FINAL VERSION!!!
 
 <p align="center">
   <a href="https://github.com/NeonMC23?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-171717?style=flat-square&logo=github&logoColor=A3E635" alt="Repositories" />
+    <img
+      src="https://img.shields.io/badge/REPOSITORIES-1C1C1C?style=for-the-badge&logo=github&logoColor=FF66C4"
+      alt="Repositories"
+    />
   </a>
   <a href="https://github.com/NeonMC23?tab=stars">
-    <img src="https://img.shields.io/badge/OPEN_SOURCE-171717?style=flat-square&logo=opensourceinitiative&logoColor=A3E635" alt="Open source" />
+    <img
+      src="https://img.shields.io/badge/OPEN_SOURCE-1C1C1C?style=for-the-badge&logo=opensourceinitiative&logoColor=A3E635"
+      alt="Open source"
+    />
   </a>
 </p>
+
+---
+
+
 
 ---
 
