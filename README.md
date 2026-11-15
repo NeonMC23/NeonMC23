@@ -138,25 +138,26 @@
 
 <p align="center">
   <img
-    src="https://github.pumbas.net/api/contributions/NeonMC23?colour=A3E635&bgColour=1C1C1C&dotColour=E5E7EB"
-    alt="Neon's GitHub Contribution Calendar"
+    src="https://ghstats.dev/api/profile?username=NeonMC23&type=contributions&theme=dark&bg=1C1C1C&panel=171717&text=E5E7EB&muted=9CA3AF&accent=A3E635&border=303036"
     width="100%"
+    alt="Neon's GitHub Contribution Calendar"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonMC23&layout=compact&langs_count=6&hide_border=true&bg_color=1C1C1C&title_color=A3E635&text_color=E5E7EB"
-    height="180"
-    alt="Top Languages"
+    src="https://ghstats.dev/api/card?username=NeonMC23&bg=1C1C1C&text=E5E7EB&title_color=FF66C4&icon_color=A3E635&border_color=303036&show_icons=true&show_ring=false"
+    width="49%"
+    alt="Neon's GitHub Statistics"
   />
-  &nbsp;&nbsp;
   <img
-    src="https://streak-stats.demolab.com/?user=NeonMC23&hide_border=true&background=1C1C1C&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF"
-    height="180"
-    alt="GitHub Contribution Streak"
+    src="https://ghstats.dev/api/langs?username=NeonMC23&layout=donut&max_langs=6&bg=1C1C1C&text=E5E7EB&title_color=FF66C4&icon_color=A3E635&border_color=303036"
+    width="49%"
+    alt="Neon's Top Languages"
   />
 </p>
+
+---
 
 ### Selected Projects
 
