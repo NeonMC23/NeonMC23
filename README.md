@@ -25,6 +25,8 @@
   </a>
 </p>
 
+WIDGET NEED TO BE CHANGED !
+
 <p align="center">
   <img src="./assets/section-divider.svg" width="100%" alt="" />
 </p>
